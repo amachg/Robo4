@@ -769,12 +769,7 @@ void setup() {
   digitalWrite(SOFT_START_CONTROL_PIN, HIGH);
   //--------------------------------------------------------------------------- 
   
-  //Agonas agonas("2252576253462244111563365343671351441"); //Σκορ: -1
-  //Agonas agonas("22525762534622441115633");
-  //Agonas agonas("745673372421446145467"); //Σκορ: 2
-  //Agonas agonas("23663444331752227747"); //Σκορ: -1	
-  Agonas agonas("554");
-  //Agonas agonas;
+  Agonas agonas;
   agonas.paikseMexriTelous();
 }
 
