@@ -46,11 +46,13 @@
 
 Μια δεύτερη κατασκευή από ξύλο μπάλσα και μακετόχαρτο, αφορά μια γλύστρα για τα πούλια. Λειτουργεί ως τροφοδότης του ρομποτικού χεριού, με πούλια. Πρόκειται για έναν λεπτό διάδρομο που χωράει 12 πούλια, όρθια τοποθετημένα σε σειρά και στερεώνεται σε αρκετή κλίση με μια κολώνα από χαρτόνι. Όταν το χαμηλότερο πούλι αφαιρείται, τότε τα παραπάνω πούλια κυλάνε στον διάδρομο μια θέση παρακάτω και το επόμενο παίρνει τη θέση του. Για να φρενάρει το πούλι που κυλάει και να μην αναπηδάει στο σκληρό ξύλο στο τέλος της διαδρομής, κολλάμε ένα μικρό κομμάτι αφρώδες υλικό, π.χ. αφρολέξ.
 
-<img src="https://user-images.githubusercontent.com/38431707/132117368-f8e1f7e0-6e76-4ffb-a594-30de644c01ee.jpg" width="440" />  <img src="https://user-images.githubusercontent.com/38431707/132117366-d9d6494c-0077-4ed4-8944-8f0b2a01b7ed.jpg" height="300" />  <img src="https://user-images.githubusercontent.com/38431707/132117359-070567c5-cbf1-4b8a-842e-dc734e353091.jpg" height="300" />
 
-![IMG_20210601_130843](https://user-images.githubusercontent.com/38431707/132117375-ce98966e-c7b4-4f18-92b8-d4b0885dab0a.jpg)
+<img src="https://user-images.githubusercontent.com/38431707/132117375-ce98966e-c7b4-4f18-92b8-d4b0885dab0a.jpg" width="440" />  <img src="https://user-images.githubusercontent.com/38431707/132117359-070567c5-cbf1-4b8a-842e-dc734e353091.jpg" height="300" />
+
+<img src="https://user-images.githubusercontent.com/38431707/132117368-f8e1f7e0-6e76-4ffb-a594-30de644c01ee.jpg" width="440" />  <img src="https://user-images.githubusercontent.com/38431707/132117366-d9d6494c-0077-4ed4-8944-8f0b2a01b7ed.jpg" height="300" />
 
 https://user-images.githubusercontent.com/38431707/132118566-641e8604-30ad-4622-bd40-0fe1cfc8a071.mp4
+
 https://user-images.githubusercontent.com/38431707/132118706-056b3a62-8f25-444f-9053-7c033b0fbc38.mp4
 
 ### Κώδικας – Εργαλεία - Γλώσσα
