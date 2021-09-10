@@ -42,12 +42,11 @@
 
 Η υπερκατασκευή που αναφέρθηκε νωρίτερα, είναι διαμορφωμένη με παραπέτα και χωρίσματα από μακετόχαρτο, κολλημένα στην κορυφή της πίστας, με σκοπό την οδήγηση της ρίψης, ώστε να μη ξεφεύγουν τα πούλια κατά την πορεία τους προς τη σχισμή της σωστής στήλης.
 
-<img src="https://user-images.githubusercontent.com/38431707/132117455-b3572ec6-7024-4e37-b09c-4e17e10d6dd1.jpg" width="440" /> <img src="https://user-images.githubusercontent.com/38431707/132117355-f97dc011-f400-47ce-8527-144f1b3446d2.jpg" width="440" />
+<img src="https://user-images.githubusercontent.com/38431707/132117375-ce98966e-c7b4-4f18-92b8-d4b0885dab0a.jpg" width="440" /> <img src="https://user-images.githubusercontent.com/38431707/132117355-f97dc011-f400-47ce-8527-144f1b3446d2.jpg" width="440" />
 
 Μια δεύτερη κατασκευή από ξύλο μπάλσα και μακετόχαρτο, αφορά μια γλύστρα για τα πούλια. Λειτουργεί ως τροφοδότης του ρομποτικού χεριού, με πούλια. Πρόκειται για έναν λεπτό διάδρομο που χωράει 12 πούλια, όρθια τοποθετημένα σε σειρά και στερεώνεται σε αρκετή κλίση με μια κολώνα από χαρτόνι. Όταν το χαμηλότερο πούλι αφαιρείται, τότε τα παραπάνω πούλια κυλάνε στον διάδρομο μια θέση παρακάτω και το επόμενο παίρνει τη θέση του. Για να φρενάρει το πούλι που κυλάει και να μην αναπηδάει στο σκληρό ξύλο στο τέλος της διαδρομής, κολλάμε ένα μικρό κομμάτι αφρώδες υλικό, π.χ. αφρολέξ.
 
-
-<img src="https://user-images.githubusercontent.com/38431707/132117375-ce98966e-c7b4-4f18-92b8-d4b0885dab0a.jpg" width="540" />  <img src="https://user-images.githubusercontent.com/38431707/132117359-070567c5-cbf1-4b8a-842e-dc734e353091.jpg" height="300" />
+<img src="https://user-images.githubusercontent.com/38431707/132117455-b3572ec6-7024-4e37-b09c-4e17e10d6dd1.jpg" width="540" />  <img src="https://user-images.githubusercontent.com/38431707/132117359-070567c5-cbf1-4b8a-842e-dc734e353091.jpg" height="300" />
 
 <img src="https://user-images.githubusercontent.com/38431707/132117368-f8e1f7e0-6e76-4ffb-a594-30de644c01ee.jpg" width="540" />  <img src="https://user-images.githubusercontent.com/38431707/132117366-d9d6494c-0077-4ed4-8944-8f0b2a01b7ed.jpg" height="300" />
 
