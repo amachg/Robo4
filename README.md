@@ -8,7 +8,7 @@
 
 Στη διάρκεια του σχολικού έτους 2021-2022 η ομάδα ρομποτικής **@robot7gymchai** του σχολείου μας, αποτελείται από τον μαθητή της πρώτης τάξης _Μουτζουρίδη Βασίλη_, τη μαθήτρια της δεύτερης τάξης _Λυμπερίου Θεοδώρα_ και τον καθηγητή πληροφορικής _Μαχαιρίδη Τάσο_.
 
-<img src="https://user-images.githubusercontent.com/38431707/132117284-0f5b367e-f942-4729-8027-c69f968e2a20.jpg" width="440" /> <img src="https://user-images.githubusercontent.com/38431707/132867455-43e070f1-b546-45e7-8802-70f8e0ea72c2.jpg" width="440" />
+<img src="https://user-images.githubusercontent.com/38431707/132117284-0f5b367e-f942-4729-8027-c69f968e2a20.jpg" width="430" /> <img src="https://user-images.githubusercontent.com/38431707/132867455-43e070f1-b546-45e7-8802-70f8e0ea72c2.jpg" width="430" />
 
 ### Περιγραφή παιχνιδιού - Κανόνες παιχνιδιού 
 
